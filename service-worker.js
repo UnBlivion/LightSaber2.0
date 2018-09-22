@@ -1,4 +1,4 @@
-let cacheName = 'Project-v1';
+let cacheName = 'LightSaber2-v1';
 let filesToCache = [
     '/',
     '/index.html',

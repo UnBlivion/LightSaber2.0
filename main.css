@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+section{
+    background-color: black;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: white;
+    font-family: sans-serif;
+    font-size: 7.25vw;
+    width: 100vw;
+}
+
+h1{
+    margin: 5px 0;
+}
+
+.container{
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+a{
+    width: 40%;
+}
+
+.botao{
+    border-radius: 50px;
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 20pt;
+    border: 0;
+}
+
+#jedi{
+    background-color: rgb(27, 161, 27);
+}
+
+#sith{
+    background-color: rgb(235, 22, 22);
+}
