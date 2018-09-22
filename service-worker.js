@@ -4,8 +4,8 @@ let filesToCache = [
     '/index.html',
     '/main.js',
     '/main.css',
-    '/jedi.html',
-    '/sith.html'
+    '/container/jedi.html',
+    '/container/sith.html'
 ];
 
 self.addEventListener('install', function(event) {
