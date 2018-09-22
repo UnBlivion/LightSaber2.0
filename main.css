@@ -45,3 +45,12 @@ a{
 #sith{
     background-color: rgb(235, 22, 22);
 }
+
+header{
+    height: 70vh;
+    width: 20px;
+}
+
+.grimlaite{
+    background: linear-gradient(90deg, green, green, green, green, green)
+}
